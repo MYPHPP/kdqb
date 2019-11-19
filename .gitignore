@@ -1,0 +1,11 @@
+/runtime/*
+/public/uploads/*
+/backup/*
+.idea
+composer.lock
+*.log
+*.css.map
+!.gitkeep
+.env
+.svn
+.vscode
